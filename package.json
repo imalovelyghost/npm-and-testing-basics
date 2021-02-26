@@ -1,0 +1,15 @@
+{
+  "name": "npmpill",
+  "version": "1.0.0",
+  "description": "Getting started with NPM",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Assembler School",
+  "license": "ISC",
+  "moduleDirectories": [
+    "node_modules",
+    "src"
+  ]
+}
