@@ -1,6 +1,6 @@
-`#technology1` `#technology2` `#technology3` `#master-in-software-engineering`
+`#npm` `#js` `#moment-js` `#lodash` `#jest` `#master-in-software-engineering`
 
-# Pill/Project title <!-- omit in toc -->
+# NPM & Testing Basics <!-- omit in toc -->
 
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
@@ -56,7 +56,7 @@ To deliver this project you must follow the steps indicated in the document:
 
 ## Resources
 
-- [NPM](https://www.npmjs.com/)
+- [NPM Tool](https://www.npmjs.com/)
 - [Lodash Library](https://lodash.com/)
 - [MomentJS Library](https://momentjs.com)
 - [Jest Library](https://jestjs.io/)
