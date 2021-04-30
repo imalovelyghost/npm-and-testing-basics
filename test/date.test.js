@@ -1,17 +1,16 @@
-const date = require('../src/date');
-
+const date = require("../src/date");
 
 // Date tests
 
-test('gets current day', () => {
+test("gets current day", () => {
   // TODO implemente
-  // expect(date.getCurrentDay()).toBe((new Date()).getDay());
+  // expect(date.getCurrentDay()).toBe(new Date().getDay());
 });
 
-test('gets current month', () => {
+test("gets current month", () => {
   // TODO implement
 });
 
-test('gets current year', () => {
+test("gets current year", () => {
   // TODO implement
 });

@@ -1,11 +1,12 @@
-const lodash = require('lodash');
+const lodash = require("lodash");
 
 /**
  * TODO: all getters, all get method must return a value
  * */
 
 function createArray(arraySize) {
-  return lodash.times(arraySize, lodash.uniqueId.bind(null, 'ball_'));
+  // TODO implement
+  // return lodash.times(arraySize, lodash.uniqueId.bind(null, 'ball_'));
 }
 
 function toCamelCase(string) {

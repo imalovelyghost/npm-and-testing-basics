@@ -1,15 +1,12 @@
-var moment = require('moment');
+var moment = require("moment");
 
 /**
  * TODO: all getters, all get method must return a value
  * */
 
-function getFullDate() {
-  return moment().format('MMMM Do YYYY, h:mm:ss a');
-}
-
 function getWeekDay() {
   // TODO implement
+  // return moment().day();
 }
 
 function getCurrentMonth() {
@@ -21,7 +18,6 @@ function getCurrentYear() {
 }
 
 module.exports = {
-  getFullDate: getFullDate,
   getCurrentDay: getWeekDay,
   getCurrentMonth: getCurrentMonth,
   getCurrentYear: getCurrentYear,
