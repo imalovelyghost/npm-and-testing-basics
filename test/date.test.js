@@ -3,7 +3,7 @@ const date = require("../src/date");
 // Date tests
 
 test("gets current day", () => {
-  // TODO implemente
+  // TODO implement
   // expect(date.getCurrentDay()).toBe(new Date().getDay());
 });
 
