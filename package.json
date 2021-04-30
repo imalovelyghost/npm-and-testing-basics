@@ -1,7 +1,7 @@
 {
-  "name": "npmpill",
+  "name": "npm-and-testing-basics",
   "version": "1.0.0",
-  "description": "Getting started with NPM",
+  "description": "Getting started with NPM and Testing",
   "main": "app.js",
   "scripts": {
     "test": "jest"
