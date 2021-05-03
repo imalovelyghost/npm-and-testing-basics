@@ -5,20 +5,23 @@ const lodash = require("lodash");
  * */
 
 function createArray(arraySize) {
-  // TODO implement
-  // return lodash.times(arraySize, lodash.uniqueId.bind(null, 'ball_'));
+    // TODO implement
+    return lodash.times(arraySize, lodash.uniqueId.bind(null, 'ball_'));
 }
 
 function toCamelCase(string) {
-  // TODO implement
+    // TODO implement
+    return lodash.camelCase(string);
 }
 
 function getIndexOf(array, value) {
-  // TODO implement
+    // TODO implement
+    return lodash.indexOf(array, value)
+
 }
 
 module.exports = {
-  createArray: createArray,
-  toCamelCase: toCamelCase,
-  getIndexOf: getIndexOf,
+    createArray: createArray,
+    toCamelCase: toCamelCase,
+    getIndexOf: getIndexOf,
 };
