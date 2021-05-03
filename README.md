@@ -1,48 +1,57 @@
-`#npm #js #moment-js #lodash #jest #master-in-software-engineering
-NPM & Testing Basics
-Index
+`#npm` `#js` `#moment-js` `#lodash` `#jest` `#master-in-software-engineering`
 
-    Requirements
-    Repository
-    Technologies used
-    Resources
+# NPM & Testing Basics <!-- omit in toc -->
 
-Requirements
+## Index <!-- omit in toc -->
+
+- [Requirements](#requirements)
+- [Repository](#repository)
+- [Technologies used](#technologies-used)
+- [Resources](#resources)
+
+## Requirements
 
 To run the tests we need to use npm. To check if it's installed use:
 
+```
 npm -v
+```
 
 If it isn't installed, just install node.js.
 
 After verifying npm is installed run
 
+```
 npm install
+```
 
 After the dependencies have been installed use
 
+```
 npm test
+```
 
-Requirements
+## Requirements
 
 This repo has been forked from Assembler School's repo.
-Technologies used
 
-* NPM Tool
+## Technologies used
 
-* Javascript
+\* NPM Tool
 
-* MomentJS Library
+\* Javascript
 
-* Lodash Library
+\* MomentJS Library
 
-* Jest Library
-Resources
+\* Lodash Library
 
-    NPM Tool
-    Lodash Library
-    MomentJS Library
-    Jest Library
-    Intro to JS TDD
-    README.md Guidelines
+\* Jest Library
 
+## Resources
+
+- [NPM Tool](https://www.npmjs.com/)
+- [Lodash Library](https://lodash.com/)
+- [MomentJS Library](https://momentjs.com)
+- [Jest Library](https://jestjs.io/)
+- [Intro to JS TDD](https://www.youtube.com/watch?v=SbKPgaRZsxA)
+- [README.md Guidelines](https://github.com/othneildrew/Best-README-Template)
